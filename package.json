@@ -9,7 +9,10 @@
     "dev": "nodemon --inspect=0.0.0.0:9229 -L src/index.js"
   },
   "dependencies": {
+    "-": "^0.0.1",
     "express": "^4.18.2",
+    "g": "^2.0.1",
+    "npm": "^10.8.2",
     "pg": "^8.11.2",
     "sqlite3": "^5.1.2",
     "uuid": "^9.0.0",
